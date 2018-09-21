@@ -22,7 +22,7 @@ import com.crm.qa.util.TestUtil;
 
 public class ContactsPageTest  extends TestBase{
 
-	LoginPage loginPage;
+	LoginPage loginPage;;
 	HomePage homePage;
 	TestUtil testUtil;
 	ContactsPage contactsPage;
